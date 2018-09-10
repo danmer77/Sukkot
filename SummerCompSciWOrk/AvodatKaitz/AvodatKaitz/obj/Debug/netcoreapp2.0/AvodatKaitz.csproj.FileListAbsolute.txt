@@ -1,0 +1,11 @@
+/Users/danmer/Desktop/SummerCompSciWOrk/AvodatKaitz/AvodatKaitz/bin/Debug/netcoreapp2.0/AvodatKaitz.deps.json
+/Users/danmer/Desktop/SummerCompSciWOrk/AvodatKaitz/AvodatKaitz/bin/Debug/netcoreapp2.0/AvodatKaitz.runtimeconfig.json
+/Users/danmer/Desktop/SummerCompSciWOrk/AvodatKaitz/AvodatKaitz/bin/Debug/netcoreapp2.0/AvodatKaitz.runtimeconfig.dev.json
+/Users/danmer/Desktop/SummerCompSciWOrk/AvodatKaitz/AvodatKaitz/bin/Debug/netcoreapp2.0/AvodatKaitz.dll
+/Users/danmer/Desktop/SummerCompSciWOrk/AvodatKaitz/AvodatKaitz/bin/Debug/netcoreapp2.0/AvodatKaitz.pdb
+/Users/danmer/Desktop/SummerCompSciWOrk/AvodatKaitz/AvodatKaitz/obj/Debug/netcoreapp2.0/AvodatKaitz.csprojResolveAssemblyReference.cache
+/Users/danmer/Desktop/SummerCompSciWOrk/AvodatKaitz/AvodatKaitz/obj/Debug/netcoreapp2.0/AvodatKaitz.csproj.CoreCompileInputs.cache
+/Users/danmer/Desktop/SummerCompSciWOrk/AvodatKaitz/AvodatKaitz/obj/Debug/netcoreapp2.0/AvodatKaitz.AssemblyInfoInputs.cache
+/Users/danmer/Desktop/SummerCompSciWOrk/AvodatKaitz/AvodatKaitz/obj/Debug/netcoreapp2.0/AvodatKaitz.AssemblyInfo.cs
+/Users/danmer/Desktop/SummerCompSciWOrk/AvodatKaitz/AvodatKaitz/obj/Debug/netcoreapp2.0/AvodatKaitz.dll
+/Users/danmer/Desktop/SummerCompSciWOrk/AvodatKaitz/AvodatKaitz/obj/Debug/netcoreapp2.0/AvodatKaitz.pdb

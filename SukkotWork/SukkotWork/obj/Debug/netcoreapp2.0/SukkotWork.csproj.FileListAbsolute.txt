@@ -1,0 +1,11 @@
+/Users/danmer/Desktop/SukkotWork/SukkotWork/bin/Debug/netcoreapp2.0/SukkotWork.deps.json
+/Users/danmer/Desktop/SukkotWork/SukkotWork/bin/Debug/netcoreapp2.0/SukkotWork.runtimeconfig.json
+/Users/danmer/Desktop/SukkotWork/SukkotWork/bin/Debug/netcoreapp2.0/SukkotWork.runtimeconfig.dev.json
+/Users/danmer/Desktop/SukkotWork/SukkotWork/bin/Debug/netcoreapp2.0/SukkotWork.dll
+/Users/danmer/Desktop/SukkotWork/SukkotWork/bin/Debug/netcoreapp2.0/SukkotWork.pdb
+/Users/danmer/Desktop/SukkotWork/SukkotWork/obj/Debug/netcoreapp2.0/SukkotWork.csprojResolveAssemblyReference.cache
+/Users/danmer/Desktop/SukkotWork/SukkotWork/obj/Debug/netcoreapp2.0/SukkotWork.csproj.CoreCompileInputs.cache
+/Users/danmer/Desktop/SukkotWork/SukkotWork/obj/Debug/netcoreapp2.0/SukkotWork.AssemblyInfoInputs.cache
+/Users/danmer/Desktop/SukkotWork/SukkotWork/obj/Debug/netcoreapp2.0/SukkotWork.AssemblyInfo.cs
+/Users/danmer/Desktop/SukkotWork/SukkotWork/obj/Debug/netcoreapp2.0/SukkotWork.dll
+/Users/danmer/Desktop/SukkotWork/SukkotWork/obj/Debug/netcoreapp2.0/SukkotWork.pdb

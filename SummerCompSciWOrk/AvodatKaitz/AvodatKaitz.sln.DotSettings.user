@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=272C2FC3_002D88EE_002D433F_002DBBE1_002DFD367DFD79CE_002Ff_003ADate_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=272C2FC3_002D88EE_002D433F_002DBBE1_002DFD367DFD79CE_002Ff_003APassport_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=272C2FC3_002D88EE_002D433F_002DBBE1_002DFD367DFD79CE_002Ff_003APerson_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=272C2FC3_002D88EE_002D433F_002DBBE1_002DFD367DFD79CE_002Ff_003APhoneBook_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=272C2FC3_002D88EE_002D433F_002DBBE1_002DFD367DFD79CE_002Ff_003AProgram_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=272C2FC3_002D88EE_002D433F_002DBBE1_002DFD367DFD79CE_002Ff_003ARectangle_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=272C2FC3_002D88EE_002D433F_002DBBE1_002DFD367DFD79CE_002Ff_003APoint_002Ecs/@EntryIndexedValue">ForceIncluded</s:String></wpf:ResourceDictionary>

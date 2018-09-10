@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0a87af0-832b-432b-bc94-5bbb1a41818b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="135900747">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AvodatKaitz/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+              <folding>
+                <marker date="1536209186148" expanded="false" signature="6:32" ph="..." />
+                <marker date="1536209186148" expanded="true" signature="55:4390" ph="{...}" />
+                <marker date="1536209186148" expanded="true" signature="75:4388" ph="{...}" />
+                <marker date="1536209186148" expanded="true" signature="121:3681" ph="{...}" />
+                <marker date="1536209186148" expanded="true" signature="132:951" ph="/* Testing the class, page 27 דף עבודה 2 ... */" />
+                <marker date="1536209186148" expanded="true" signature="2249:3671" ph="{...}" />
+                <marker date="1536209186148" expanded="true" signature="2421:3584" ph="{...}" />
+                <marker date="1536209186148" expanded="true" signature="3755:4124" ph="{...}" />
+                <marker date="1536209186148" expanded="true" signature="3947:4071" ph="{...}" />
+                <marker date="1536209186148" expanded="true" signature="4175:4381" ph="{...}" />
+                <marker date="1536209186148" expanded="true" signature="4262:4340" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AvodatKaitz/PhoneBook.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+              <folding>
+                <marker date="1536311140542" expanded="false" signature="6:52" ph="..." />
+                <marker date="1536311140542" expanded="true" signature="104:9311" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="287:382" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="392:517" ph="/// deleting a contact by the given name ... " />
+                <marker date="1536311140542" expanded="true" signature="561:1487" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="767:964" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="833:950" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="1017:1477" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="1364:1463" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="1497:1687" ph="/// getting the phone number of the person searched for in the phone book ... " />
+                <marker date="1536311140542" expanded="true" signature="1731:2081" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="1861:1991" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="2091:2201" ph="/// returns all the contact names ... " />
+                <marker date="1536311140542" expanded="true" signature="2247:2520" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="2398:2480" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="2530:2715" ph="/// Adding the contact into the phonebook, lexicographically ordered. also updates contact phone number ... " />
+                <marker date="1536311140542" expanded="true" signature="2756:6572" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="2865:6190" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="3014:4694" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="3365:3460" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="3725:4344" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="3879:4322" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="4017:4148" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="4491:4590" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="4774:4853" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="4987:6091" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="5170:5843" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="5329:5820" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="5469:5604" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="5970:6073" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="6240:6562" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="6363:6548" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="6439:6530" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="6582:6693" ph="/// returns the number of contacts ... " />
+                <marker date="1536311140542" expanded="true" signature="6728:6777" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="6795:6923" ph="/// returns all contacts, the name and phone number ... " />
+                <marker date="1536311140542" expanded="true" signature="6965:7384" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="7012:7154" ph="/* foreach (Person p in this.phoneBook) ... */" />
+                <marker date="1536311140542" expanded="true" signature="7206:7330" ph="{...}" />
+                <marker date="1536311140542" expanded="true" signature="7403:9305" ph="/*        /// Adds the person to the phonebook ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/AvodatKaitz/Traveler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AvodatKaitz/Passport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AvodatKaitz/Point.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AvodatKaitz/Date.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AvodatKaitz/PhoneBook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AvodatKaitz/Rectangle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AvodatKaitz/Person.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AvodatKaitz/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AvodatKaitz/Point.cs" />
+        <option value="$PROJECT_DIR$/AvodatKaitz/Rectangle.cs" />
+        <option value="$PROJECT_DIR$/AvodatKaitz/Date.cs" />
+        <option value="$PROJECT_DIR$/AvodatKaitz/Passport.cs" />
+        <option value="$PROJECT_DIR$/AvodatKaitz/Traveler.cs" />
+        <option value="$PROJECT_DIR$/AvodatKaitz/Person.cs" />
+        <option value="$PROJECT_DIR$/AvodatKaitz/Program.cs" />
+        <option value="$PROJECT_DIR$/AvodatKaitz/PhoneBook.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="55" />
+    <option name="y" value="23" />
+    <option name="width" value="1385" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AvodatKaitz" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AvodatKaitz" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AvodatKaitz" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/AvodatKaitz/bin/Debug/netcoreapp2.0/AvodatKaitz.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AvodatKaitz" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AvodatKaitz/AvodatKaitz.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0a87af0-832b-432b-bc94-5bbb1a41818b" name="Default" comment="" />
+      <created>1529658903328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529658903328</updated>
+      <workItem from="1529658907018" duration="926000" />
+      <workItem from="1530948059924" duration="254000" />
+      <workItem from="1530948892573" duration="4391000" />
+      <workItem from="1534164668200" duration="370000" />
+      <workItem from="1536053087218" duration="743000" />
+      <workItem from="1536166871303" duration="5185000" />
+      <workItem from="1536209048669" duration="404000" />
+      <workItem from="1536311109731" duration="127000" />
+      <workItem from="1536413235748" duration="45000" />
+      <workItem from="1536504226924" duration="138000" />
+      <workItem from="1536504518872" duration="107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12690000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="23" width="1385" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25614297" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" x="61" y="190" width="1336" height="542" id="Run" order="2" type="WINDOWED" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39975095" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3299363" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3299363" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32866243" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AvodatKaitz/Point.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AvodatKaitz/Rectangle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="35" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AvodatKaitz/Traveler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AvodatKaitz/Date.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="71" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AvodatKaitz/Passport.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="94" selection-start-line="38" selection-start-column="94" selection-end-line="38" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AvodatKaitz/Person.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AvodatKaitz/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+          <folding>
+            <marker date="1536209186148" expanded="false" signature="6:32" ph="..." />
+            <marker date="1536209186148" expanded="true" signature="55:4390" ph="{...}" />
+            <marker date="1536209186148" expanded="true" signature="75:4388" ph="{...}" />
+            <marker date="1536209186148" expanded="true" signature="121:3681" ph="{...}" />
+            <marker date="1536209186148" expanded="true" signature="132:951" ph="/* Testing the class, page 27 דף עבודה 2 ... */" />
+            <marker date="1536209186148" expanded="true" signature="2249:3671" ph="{...}" />
+            <marker date="1536209186148" expanded="true" signature="2421:3584" ph="{...}" />
+            <marker date="1536209186148" expanded="true" signature="3755:4124" ph="{...}" />
+            <marker date="1536209186148" expanded="true" signature="3947:4071" ph="{...}" />
+            <marker date="1536209186148" expanded="true" signature="4175:4381" ph="{...}" />
+            <marker date="1536209186148" expanded="true" signature="4262:4340" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AvodatKaitz/PhoneBook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding>
+            <marker date="1536311140542" expanded="false" signature="6:52" ph="..." />
+            <marker date="1536311140542" expanded="true" signature="104:9311" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="287:382" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="392:517" ph="/// deleting a contact by the given name ... " />
+            <marker date="1536311140542" expanded="true" signature="561:1487" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="767:964" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="833:950" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="1017:1477" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="1364:1463" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="1497:1687" ph="/// getting the phone number of the person searched for in the phone book ... " />
+            <marker date="1536311140542" expanded="true" signature="1731:2081" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="1861:1991" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="2091:2201" ph="/// returns all the contact names ... " />
+            <marker date="1536311140542" expanded="true" signature="2247:2520" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="2398:2480" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="2530:2715" ph="/// Adding the contact into the phonebook, lexicographically ordered. also updates contact phone number ... " />
+            <marker date="1536311140542" expanded="true" signature="2756:6572" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="2865:6190" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="3014:4694" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="3365:3460" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="3725:4344" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="3879:4322" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="4017:4148" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="4491:4590" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="4774:4853" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="4987:6091" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="5170:5843" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="5329:5820" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="5469:5604" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="5970:6073" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="6240:6562" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="6363:6548" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="6439:6530" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="6582:6693" ph="/// returns the number of contacts ... " />
+            <marker date="1536311140542" expanded="true" signature="6728:6777" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="6795:6923" ph="/// returns all contacts, the name and phone number ... " />
+            <marker date="1536311140542" expanded="true" signature="6965:7384" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="7012:7154" ph="/* foreach (Person p in this.phoneBook) ... */" />
+            <marker date="1536311140542" expanded="true" signature="7206:7330" ph="{...}" />
+            <marker date="1536311140542" expanded="true" signature="7403:9305" ph="/*        /// Adds the person to the phonebook ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

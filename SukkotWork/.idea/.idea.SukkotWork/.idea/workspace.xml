@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b4b1963-8323-432f-b670-0960baf4e067" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1703606922">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SukkotWork/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="77" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="77" />
+              <folding>
+                <marker date="1536579473142" expanded="true" signature="35:2448" ph="{...}" />
+                <marker date="1536579473142" expanded="true" signature="55:2446" ph="{...}" />
+                <marker date="1536579473142" expanded="true" signature="101:2439" ph="{...}" />
+                <marker date="1536579473142" expanded="true" signature="174:676" ph="/* Console.WriteLine(r1.Ex1(4)); ... */" />
+                <marker date="1536579473142" expanded="true" signature="784:1013" ph="/* Console.WriteLine(r2.Ex10(4)); ... */" />
+                <marker date="1536579473142" expanded="true" signature="1087:1754" ph="/* Console.WriteLine(r3.Ex14(new double[] {1,2,-2,3}, 3)); ... */" />
+                <marker date="1536579473142" expanded="true" signature="1828:2429" ph="/* Console.WriteLine(r4.Ex21(&quot;dcaeb&quot;)); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SukkotWork/RecursionOnArrays.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="251" column="22" selection-start-line="251" selection-start-column="22" selection-end-line="251" selection-end-column="22" />
+              <folding>
+                <marker date="1536165778350" expanded="true" signature="73:11799" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="88:322" ph="/// Returns the sum of the elements in the array from index to 0 ... " />
+                <marker date="1536165778350" expanded="true" signature="372:581" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="447:508" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="591:824" ph="/// returns the sum of all the positive numbers from index to 0 ... " />
+                <marker date="1536165778350" expanded="true" signature="874:1285" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="946:1071" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="1295:1522" ph="/// Returns the index of the input in the array, or -1 if not in the array ... " />
+                <marker date="1536165778350" expanded="true" signature="1564:1620" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="1630:1981" ph="/// Returns the index of the input in the array, or -1 if not in the array ... " />
+                <marker date="1536165778350" expanded="true" signature="2042:2525" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="2140:2300" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="2535:2719" ph="/// Returns true if the array is sorted in ascending order, else false ... " />
+                <marker date="1536165778350" expanded="true" signature="2753:2804" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="2814:3157" ph="/// Returns true if the array is sorted in ascending order, else false. Don't want outsider to class to affect wh ... " />
+                <marker date="1536165778350" expanded="true" signature="3199:3511" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="3295:3361" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="3521:3690" ph="/// Returns true if the array contains no prime numbers ... " />
+                <marker date="1536165778350" expanded="true" signature="3724:3839" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="3849:4193" ph="/// Returns true if the array doesn't contain any prime numbers ... " />
+                <marker date="1536165778350" expanded="true" signature="4277:4668" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="4362:4446" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="4678:4980" ph="/// Returns in how many of the rows of the matrix (from the input to 0) the inputted number appears ... " />
+                <marker date="1536165778350" expanded="true" signature="5043:5718" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="5214:5292" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="5362:5514" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="5728:5884" ph="/// takes an array, randomizes two indexes ... " />
+                <marker date="1536165778350" expanded="true" signature="5918:6207" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="6217:6467" ph="/// helper to the invoked Ex20 method, which is encapsulated ... " />
+                <marker date="1536165778350" expanded="true" signature="6518:6882" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="6579:6636" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="6667:6734" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="6892:7032" ph="/// printing the elements in the even indices of the array ... " />
+                <marker date="1536165778350" expanded="true" signature="7066:7144" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="7154:7416" ph="/// printing the elements in the even indices of the array, the encapsulated function ... " />
+                <marker date="1536165778350" expanded="true" signature="7458:7732" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="7547:7722" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="7742:7957" ph="/// prints only the elements which are smaller than the element after them, with the last omitted, since it has n ... " />
+                <marker date="1536165778350" expanded="true" signature="7991:8035" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="8045:8294" ph="/// prints only the elements which are smaller than the element after them, the encapsulated function ... " />
+                <marker date="1536165778350" expanded="true" signature="8336:8717" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="8416:8707" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="8551:8634" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="8727:8956" ph="/// prints the elements of the matrix from the two i's ... " />
+                <marker date="1536165778350" expanded="true" signature="9007:9088" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="9098:9446" ph="/// prints the element of the matrix from the two i's, the encapsulated function ... " />
+                <marker date="1536165778350" expanded="true" signature="9509:10307" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="9643:9766" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="9859:10039" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="10101:10297" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="10317:10556" ph="/// returns, recursively, the max number in an array, from the index given ... " />
+                <marker date="1536165778350" expanded="true" signature="10610:10905" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="10667:10783" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="10923:11108" ph="/// returns the max of each row, from the starting row ... " />
+                <marker date="1536165778350" expanded="true" signature="11150:11793" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="11319:11384" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="11452:11573" ph="{...}" />
+                <marker date="1536165778350" expanded="true" signature="11611:11783" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SukkotWork/RecursionOnMathematicalExpressions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2550">
+              <caret line="170" column="98" selection-start-line="170" selection-start-column="98" selection-end-line="170" selection-end-column="98" />
+              <folding>
+                <marker date="1536161467037" expanded="true" signature="89:6751" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="104:286" ph="/// Returns the sum according to the question, recursively of course ... " />
+                <marker date="1536161467037" expanded="true" signature="317:614" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="367:425" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="624:810" ph="/// Returns the sum according to the given parametres, where Ex11(n=1)=1 ... " />
+                <marker date="1536161467037" expanded="true" signature="844:1156" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="878:932" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="1166:1386" ph="/// Returns the sum of the multiples of n1 that are smaller than n2 ... " />
+                <marker date="1536161467037" expanded="true" signature="1426:1557" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="1567:1940" ph="/// Returns the sum of the multiples of n1 that are smaller than n2, the encapsulated function ... " />
+                <marker date="1536161467037" expanded="true" signature="1997:2404" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="2146:2202" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="2215:2342" ph="/* same two numbers n1 and n2, increment the i for the next multiple to add to the sum ... */" />
+                <marker date="1536161467037" expanded="true" signature="2414:2598" ph="/// Returns a(n), where a(n)=a(n-1)^2 + a(n-2)^2 and a(1)=0 and a(2)=1 ... " />
+                <marker date="1536161467037" expanded="true" signature="2630:2893" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="2664:2718" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="2747:2801" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="2902:3077" ph="/// Returns the sum of all Ex13A up to and including Ex13A(n) ... " />
+                <marker date="1536161467037" expanded="true" signature="3109:3161" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="3171:3353" ph="/// the encapsulated function ... " />
+                <marker date="1536161467037" expanded="true" signature="3395:3655" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="3463:3519" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="3665:3917" ph="/// prints the algebraic series with parametres a, d, and how many of them should be printed, n ... " />
+                <marker date="1536161467037" expanded="true" signature="3964:4397" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="4035:4104" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="4121:4387" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="4407:4556" ph="/// prints the first n elements of the series given in the question ... " />
+                <marker date="1536161467037" expanded="true" signature="4588:4638" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="4648:5034" ph="/// prints the first n elements of the series given in the question, the encapsulated function ... " />
+                <marker date="1536161467037" expanded="true" signature="5089:5416" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="5151:5218" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="5235:5406" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="5426:5571" ph="/// prints the first n elements in the sequence in the question ... " />
+                <marker date="1536161467037" expanded="true" signature="5603:5737" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="5747:6081" ph="/// prints the first n elements in the sequence in the question, the encapsulated function ... " />
+                <marker date="1536161467037" expanded="true" signature="6128:6745" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="6203:6218" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="6235:6735" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="6303:6482" ph="{...}" />
+                <marker date="1536161467037" expanded="true" signature="6526:6721" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SukkotWork/RecursionOnNumbers.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1605">
+              <caret line="107" column="73" selection-start-line="107" selection-start-column="73" selection-end-line="107" selection-end-column="73" />
+              <folding>
+                <marker date="1536311032770" expanded="true" signature="73:9796" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="88:248" ph="/// Returns sum up to and including the number ... " />
+                <marker date="1536311032770" expanded="true" signature="278:406" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="416:569" ph="/// Returns the factorial of the number ... " />
+                <marker date="1536311032770" expanded="true" signature="599:715" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="725:904" ph="/// Returns the mult of all the odd numbers up to n (including n) ... " />
+                <marker date="1536311032770" expanded="true" signature="934:1303" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="1024:1087" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="1129:1293" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="1313:1473" ph="/// Returns the number of digits of the number ... " />
+                <marker date="1536311032770" expanded="true" signature="1503:1629" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="1639:1841" ph="/// Returns the integer div of p and q, returns p/q ... " />
+                <marker date="1536311032770" expanded="true" signature="1878:2145" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="1901:2083" ph="/* dividing is just repeated subtracting, so it stops when you can't subtract anymore (for natural numbers). ... */" />
+                <marker date="1536311032770" expanded="true" signature="2155:2321" ph="/// Returns p%q ... " />
+                <marker date="1536311032770" expanded="true" signature="2358:2547" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="2557:2765" ph="/// returns true if x is a multiple of y, false otherwise ... " />
+                <marker date="1536311032770" expanded="true" signature="2803:3254" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="2826:3027" ph="/* checking if y is a multiple of x means that if you repeatedly add y to itself, it should become x ... */" />
+                <marker date="1536311032770" expanded="true" signature="3050:3116" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="3161:3218" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="3264:3426" ph="/// Returns true if prime, false if not ... " />
+                <marker date="1536311032770" expanded="true" signature="3466:3741" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="3759:4011" ph="/// Returns true if prime, false if not. the encapsulated function ... " />
+                <marker date="1536311032770" expanded="true" signature="4066:4510" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="4212:4415" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="4521:4790" ph="/// Checks if all the digits are either all even or all odd. if they are either of those options, returns true. e ... " />
+                <marker date="1536311032770" expanded="true" signature="4821:5148" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="4922:4979" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="5158:5366" ph="/// the encapsulated function of Ex9 ... " />
+                <marker date="1536311032770" expanded="true" signature="5405:5865" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="5516:5677" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="5921:6100" ph="/// prints the characters between the two given characters ... " />
+                <marker date="1536311032770" expanded="true" signature="6143:6746" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="6313:6476" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="6569:6736" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="6756:6900" ph="/// prints the dividers of the number (including 1 and itself) ... " />
+                <marker date="1536311032770" expanded="true" signature="6932:6976" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="6986:7300" ph="/// the encapsulated Ex25 function, which prints the dividers of the given number ... " />
+                <marker date="1536311032770" expanded="true" signature="7354:7984" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="7414:7476" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="7493:7974" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="7574:7754" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="7813:7960" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="7994:8120" ph="/// prints all the even digits of the number ... " />
+                <marker date="1536311032770" expanded="true" signature="8152:8726" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="8210:8328" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="8366:8716" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="8469:8584" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="8634:8702" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="8736:8850" ph="/// Encapsulataing the inputted beginning of the multiplication table ... " />
+                <marker date="1536311032770" expanded="true" signature="8877:8920" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="8938:9139" ph="/// prints the multiplication table ... " />
+                <marker date="1536311032770" expanded="true" signature="9181:9790" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="9260:9324" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="9484:9592" ph="{...}" />
+                <marker date="1536311032770" expanded="true" signature="9675:9780" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SukkotWork/RecursionOnString.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="63" column="67" selection-start-line="63" selection-start-column="67" selection-end-line="63" selection-end-column="67" />
+              <folding>
+                <marker date="1536166861244" expanded="true" signature="57:2306" ph="{...}" />
+                <marker date="1536166861244" expanded="true" signature="72:260" ph="/// returns the number of lowercase a b c letters in the inputted string ... " />
+                <marker date="1536166861244" expanded="true" signature="296:349" ph="{...}" />
+                <marker date="1536166861244" expanded="true" signature="359:568" ph="/// The actual function, just so we start at index 0 ... " />
+                <marker date="1536166861244" expanded="true" signature="616:959" ph="{...}" />
+                <marker date="1536166861244" expanded="true" signature="753:806" ph="{...}" />
+                <marker date="1536166861244" expanded="true" signature="969:1143" ph="/// returns the string, but with a '*' after every 3 chars ... " />
+                <marker date="1536166861244" expanded="true" signature="1182:1235" ph="{...}" />
+                <marker date="1536166861244" expanded="true" signature="1245:1421" ph="/// the actual function ... " />
+                <marker date="1536166861244" expanded="true" signature="1468:1619" ph="{...}" />
+                <marker date="1536166861244" expanded="true" signature="1629:1777" ph="/// returns the string backwards ... " />
+                <marker date="1536166861244" expanded="true" signature="1816:1880" ph="{...}" />
+                <marker date="1536166861244" expanded="true" signature="1890:2106" ph="/// returns the string backwards. the encapsulated function ... " />
+                <marker date="1536166861244" expanded="true" signature="2157:2300" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SukkotWork/RecursionOnArrays.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SukkotWork/RecursionOnString.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SukkotWork/RecursionOnMathematicalExpressions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SukkotWork/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SukkotWork/RecursionOnNumbers.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SukkotWork/RecursionOnNumbersOrChars.cs" />
+        <option value="$PROJECT_DIR$/SukkotWork/RecursionOnMathematicalExpressions.cs" />
+        <option value="$PROJECT_DIR$/SukkotWork/RecursionOnArrays.cs" />
+        <option value="$PROJECT_DIR$/SukkotWork/RecursionOnString.cs" />
+        <option value="$PROJECT_DIR$/SukkotWork/RecursionOnNumbers.cs" />
+        <option value="$PROJECT_DIR$/SukkotWork/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="55" />
+    <option name="y" value="23" />
+    <option name="width" value="1385" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SukkotWork" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SukkotWork" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SukkotWork" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SukkotWork/bin/Debug/netcoreapp2.0/SukkotWork.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SukkotWork" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SukkotWork/SukkotWork.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b4b1963-8323-432f-b670-0960baf4e067" name="Default" comment="" />
+      <created>1536059131680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536059131680</updated>
+      <workItem from="1536059134832" duration="11081000" />
+      <workItem from="1536083796313" duration="13909000" />
+      <workItem from="1536209489566" duration="116000" />
+      <workItem from="1536310936198" duration="168000" />
+      <workItem from="1536504207043" duration="13000" />
+      <workItem from="1536526490551" duration="558000" />
+      <workItem from="1536579332816" duration="81000" />
+      <workItem from="1536579416978" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26034000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="23" width="1385" height="877" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.263589" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32866243" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39975095" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32866243" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SukkotWork/RecursionOnNumbersOrChars.cs" />
+    <entry file="file://$PROJECT_DIR$/SukkotWork/RecursionOnMathematicalExpressions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="170" column="98" selection-start-line="170" selection-start-column="98" selection-end-line="170" selection-end-column="98" />
+          <folding>
+            <marker date="1536161467037" expanded="true" signature="89:6751" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="104:286" ph="/// Returns the sum according to the question, recursively of course ... " />
+            <marker date="1536161467037" expanded="true" signature="317:614" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="367:425" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="624:810" ph="/// Returns the sum according to the given parametres, where Ex11(n=1)=1 ... " />
+            <marker date="1536161467037" expanded="true" signature="844:1156" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="878:932" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="1166:1386" ph="/// Returns the sum of the multiples of n1 that are smaller than n2 ... " />
+            <marker date="1536161467037" expanded="true" signature="1426:1557" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="1567:1940" ph="/// Returns the sum of the multiples of n1 that are smaller than n2, the encapsulated function ... " />
+            <marker date="1536161467037" expanded="true" signature="1997:2404" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="2146:2202" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="2215:2342" ph="/* same two numbers n1 and n2, increment the i for the next multiple to add to the sum ... */" />
+            <marker date="1536161467037" expanded="true" signature="2414:2598" ph="/// Returns a(n), where a(n)=a(n-1)^2 + a(n-2)^2 and a(1)=0 and a(2)=1 ... " />
+            <marker date="1536161467037" expanded="true" signature="2630:2893" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="2664:2718" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="2747:2801" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="2902:3077" ph="/// Returns the sum of all Ex13A up to and including Ex13A(n) ... " />
+            <marker date="1536161467037" expanded="true" signature="3109:3161" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="3171:3353" ph="/// the encapsulated function ... " />
+            <marker date="1536161467037" expanded="true" signature="3395:3655" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="3463:3519" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="3665:3917" ph="/// prints the algebraic series with parametres a, d, and how many of them should be printed, n ... " />
+            <marker date="1536161467037" expanded="true" signature="3964:4397" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="4035:4104" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="4121:4387" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="4407:4556" ph="/// prints the first n elements of the series given in the question ... " />
+            <marker date="1536161467037" expanded="true" signature="4588:4638" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="4648:5034" ph="/// prints the first n elements of the series given in the question, the encapsulated function ... " />
+            <marker date="1536161467037" expanded="true" signature="5089:5416" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="5151:5218" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="5235:5406" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="5426:5571" ph="/// prints the first n elements in the sequence in the question ... " />
+            <marker date="1536161467037" expanded="true" signature="5603:5737" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="5747:6081" ph="/// prints the first n elements in the sequence in the question, the encapsulated function ... " />
+            <marker date="1536161467037" expanded="true" signature="6128:6745" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="6203:6218" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="6235:6735" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="6303:6482" ph="{...}" />
+            <marker date="1536161467037" expanded="true" signature="6526:6721" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SukkotWork/RecursionOnNumbers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1605">
+          <caret line="107" column="73" selection-start-line="107" selection-start-column="73" selection-end-line="107" selection-end-column="73" />
+          <folding>
+            <marker date="1536311032770" expanded="true" signature="73:9796" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="88:248" ph="/// Returns sum up to and including the number ... " />
+            <marker date="1536311032770" expanded="true" signature="278:406" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="416:569" ph="/// Returns the factorial of the number ... " />
+            <marker date="1536311032770" expanded="true" signature="599:715" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="725:904" ph="/// Returns the mult of all the odd numbers up to n (including n) ... " />
+            <marker date="1536311032770" expanded="true" signature="934:1303" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="1024:1087" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="1129:1293" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="1313:1473" ph="/// Returns the number of digits of the number ... " />
+            <marker date="1536311032770" expanded="true" signature="1503:1629" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="1639:1841" ph="/// Returns the integer div of p and q, returns p/q ... " />
+            <marker date="1536311032770" expanded="true" signature="1878:2145" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="1901:2083" ph="/* dividing is just repeated subtracting, so it stops when you can't subtract anymore (for natural numbers). ... */" />
+            <marker date="1536311032770" expanded="true" signature="2155:2321" ph="/// Returns p%q ... " />
+            <marker date="1536311032770" expanded="true" signature="2358:2547" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="2557:2765" ph="/// returns true if x is a multiple of y, false otherwise ... " />
+            <marker date="1536311032770" expanded="true" signature="2803:3254" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="2826:3027" ph="/* checking if y is a multiple of x means that if you repeatedly add y to itself, it should become x ... */" />
+            <marker date="1536311032770" expanded="true" signature="3050:3116" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="3161:3218" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="3264:3426" ph="/// Returns true if prime, false if not ... " />
+            <marker date="1536311032770" expanded="true" signature="3466:3741" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="3759:4011" ph="/// Returns true if prime, false if not. the encapsulated function ... " />
+            <marker date="1536311032770" expanded="true" signature="4066:4510" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="4212:4415" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="4521:4790" ph="/// Checks if all the digits are either all even or all odd. if they are either of those options, returns true. e ... " />
+            <marker date="1536311032770" expanded="true" signature="4821:5148" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="4922:4979" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="5158:5366" ph="/// the encapsulated function of Ex9 ... " />
+            <marker date="1536311032770" expanded="true" signature="5405:5865" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="5516:5677" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="5921:6100" ph="/// prints the characters between the two given characters ... " />
+            <marker date="1536311032770" expanded="true" signature="6143:6746" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="6313:6476" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="6569:6736" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="6756:6900" ph="/// prints the dividers of the number (including 1 and itself) ... " />
+            <marker date="1536311032770" expanded="true" signature="6932:6976" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="6986:7300" ph="/// the encapsulated Ex25 function, which prints the dividers of the given number ... " />
+            <marker date="1536311032770" expanded="true" signature="7354:7984" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="7414:7476" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="7493:7974" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="7574:7754" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="7813:7960" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="7994:8120" ph="/// prints all the even digits of the number ... " />
+            <marker date="1536311032770" expanded="true" signature="8152:8726" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="8210:8328" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="8366:8716" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="8469:8584" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="8634:8702" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="8736:8850" ph="/// Encapsulataing the inputted beginning of the multiplication table ... " />
+            <marker date="1536311032770" expanded="true" signature="8877:8920" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="8938:9139" ph="/// prints the multiplication table ... " />
+            <marker date="1536311032770" expanded="true" signature="9181:9790" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="9260:9324" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="9484:9592" ph="{...}" />
+            <marker date="1536311032770" expanded="true" signature="9675:9780" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SukkotWork/RecursionOnString.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="67" selection-start-line="63" selection-start-column="67" selection-end-line="63" selection-end-column="67" />
+          <folding>
+            <marker date="1536166861244" expanded="true" signature="57:2306" ph="{...}" />
+            <marker date="1536166861244" expanded="true" signature="72:260" ph="/// returns the number of lowercase a b c letters in the inputted string ... " />
+            <marker date="1536166861244" expanded="true" signature="296:349" ph="{...}" />
+            <marker date="1536166861244" expanded="true" signature="359:568" ph="/// The actual function, just so we start at index 0 ... " />
+            <marker date="1536166861244" expanded="true" signature="616:959" ph="{...}" />
+            <marker date="1536166861244" expanded="true" signature="753:806" ph="{...}" />
+            <marker date="1536166861244" expanded="true" signature="969:1143" ph="/// returns the string, but with a '*' after every 3 chars ... " />
+            <marker date="1536166861244" expanded="true" signature="1182:1235" ph="{...}" />
+            <marker date="1536166861244" expanded="true" signature="1245:1421" ph="/// the actual function ... " />
+            <marker date="1536166861244" expanded="true" signature="1468:1619" ph="{...}" />
+            <marker date="1536166861244" expanded="true" signature="1629:1777" ph="/// returns the string backwards ... " />
+            <marker date="1536166861244" expanded="true" signature="1816:1880" ph="{...}" />
+            <marker date="1536166861244" expanded="true" signature="1890:2106" ph="/// returns the string backwards. the encapsulated function ... " />
+            <marker date="1536166861244" expanded="true" signature="2157:2300" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SukkotWork/RecursionOnArrays.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="251" column="22" selection-start-line="251" selection-start-column="22" selection-end-line="251" selection-end-column="22" />
+          <folding>
+            <marker date="1536165778350" expanded="true" signature="73:11799" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="88:322" ph="/// Returns the sum of the elements in the array from index to 0 ... " />
+            <marker date="1536165778350" expanded="true" signature="372:581" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="447:508" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="591:824" ph="/// returns the sum of all the positive numbers from index to 0 ... " />
+            <marker date="1536165778350" expanded="true" signature="874:1285" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="946:1071" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="1295:1522" ph="/// Returns the index of the input in the array, or -1 if not in the array ... " />
+            <marker date="1536165778350" expanded="true" signature="1564:1620" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="1630:1981" ph="/// Returns the index of the input in the array, or -1 if not in the array ... " />
+            <marker date="1536165778350" expanded="true" signature="2042:2525" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="2140:2300" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="2535:2719" ph="/// Returns true if the array is sorted in ascending order, else false ... " />
+            <marker date="1536165778350" expanded="true" signature="2753:2804" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="2814:3157" ph="/// Returns true if the array is sorted in ascending order, else false. Don't want outsider to class to affect wh ... " />
+            <marker date="1536165778350" expanded="true" signature="3199:3511" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="3295:3361" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="3521:3690" ph="/// Returns true if the array contains no prime numbers ... " />
+            <marker date="1536165778350" expanded="true" signature="3724:3839" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="3849:4193" ph="/// Returns true if the array doesn't contain any prime numbers ... " />
+            <marker date="1536165778350" expanded="true" signature="4277:4668" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="4362:4446" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="4678:4980" ph="/// Returns in how many of the rows of the matrix (from the input to 0) the inputted number appears ... " />
+            <marker date="1536165778350" expanded="true" signature="5043:5718" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="5214:5292" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="5362:5514" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="5728:5884" ph="/// takes an array, randomizes two indexes ... " />
+            <marker date="1536165778350" expanded="true" signature="5918:6207" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="6217:6467" ph="/// helper to the invoked Ex20 method, which is encapsulated ... " />
+            <marker date="1536165778350" expanded="true" signature="6518:6882" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="6579:6636" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="6667:6734" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="6892:7032" ph="/// printing the elements in the even indices of the array ... " />
+            <marker date="1536165778350" expanded="true" signature="7066:7144" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="7154:7416" ph="/// printing the elements in the even indices of the array, the encapsulated function ... " />
+            <marker date="1536165778350" expanded="true" signature="7458:7732" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="7547:7722" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="7742:7957" ph="/// prints only the elements which are smaller than the element after them, with the last omitted, since it has n ... " />
+            <marker date="1536165778350" expanded="true" signature="7991:8035" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="8045:8294" ph="/// prints only the elements which are smaller than the element after them, the encapsulated function ... " />
+            <marker date="1536165778350" expanded="true" signature="8336:8717" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="8416:8707" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="8551:8634" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="8727:8956" ph="/// prints the elements of the matrix from the two i's ... " />
+            <marker date="1536165778350" expanded="true" signature="9007:9088" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="9098:9446" ph="/// prints the element of the matrix from the two i's, the encapsulated function ... " />
+            <marker date="1536165778350" expanded="true" signature="9509:10307" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="9643:9766" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="9859:10039" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="10101:10297" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="10317:10556" ph="/// returns, recursively, the max number in an array, from the index given ... " />
+            <marker date="1536165778350" expanded="true" signature="10610:10905" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="10667:10783" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="10923:11108" ph="/// returns the max of each row, from the starting row ... " />
+            <marker date="1536165778350" expanded="true" signature="11150:11793" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="11319:11384" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="11452:11573" ph="{...}" />
+            <marker date="1536165778350" expanded="true" signature="11611:11783" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SukkotWork/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="77" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="77" />
+          <folding>
+            <marker date="1536579473142" expanded="true" signature="35:2448" ph="{...}" />
+            <marker date="1536579473142" expanded="true" signature="55:2446" ph="{...}" />
+            <marker date="1536579473142" expanded="true" signature="101:2439" ph="{...}" />
+            <marker date="1536579473142" expanded="true" signature="174:676" ph="/* Console.WriteLine(r1.Ex1(4)); ... */" />
+            <marker date="1536579473142" expanded="true" signature="784:1013" ph="/* Console.WriteLine(r2.Ex10(4)); ... */" />
+            <marker date="1536579473142" expanded="true" signature="1087:1754" ph="/* Console.WriteLine(r3.Ex14(new double[] {1,2,-2,3}, 3)); ... */" />
+            <marker date="1536579473142" expanded="true" signature="1828:2429" ph="/* Console.WriteLine(r4.Ex21(&quot;dcaeb&quot;)); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
